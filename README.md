@@ -1,6 +1,6 @@
 # Nama Proyek: To-Do List Website
 
-## Anggota Kelompok 6
+## Anggota Kelompok 6:
 - Alfinno
 - Ananda
 - Galuh
@@ -9,4 +9,4 @@
 - Naura
 
 ##Deskripsi
-memudahkan pengguna mencacat tugas
+memudahkan pengguna dalam mencacat tugas

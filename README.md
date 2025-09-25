@@ -8,5 +8,5 @@
 - Zidan
 - Naura
 
-##Deskripsi
+## Deskripsi
 memudahkan pengguna dalam mencacat tugas
